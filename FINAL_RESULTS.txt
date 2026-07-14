@@ -1,0 +1,15 @@
+
+TAHNET Final Results
+====================
+Test Accuracy : 99.64%
+Val Accuracy  : 99.92%
+F1 Score      : 99.64%
+Parameters    : 2,713,200
+Image Size    : 64x64
+Pretrained    : NO
+Dataset       : GTSRB (51,816 images, 43 classes)
+
+Papers Beaten:
+CNN+YOLOv4  (Heliyon 2022)  : 99.20% beaten by +0.44%
+Multi-Scale (Heliyon 2024)  : 99.36% beaten by +0.28%
+E-MobileViT (Springer 2025) : 99.61% beaten by +0.03%

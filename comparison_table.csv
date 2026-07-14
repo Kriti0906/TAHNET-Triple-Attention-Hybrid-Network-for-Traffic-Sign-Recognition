@@ -1,0 +1,7 @@
+Method,Journal,Year,Pretrained,GTSRB Accuracy (%)
+CNN+Faster-RCNN+YOLOv4 (Youssouf),"Heliyon, Elsevier",2022,Yes,99.2
+VGG-16 Feature Reconstruction,"Scientific Reports, Nature",2025,Yes,99.21
+Multi-Scale CNN+SE (Wei et al.),"Heliyon, Elsevier",2024,Yes,99.36
+Multi-Channel CNN,"Heliyon, Elsevier",2024,Yes,99.4
+E-MobileViT CNN+Transformer,"Ind. AI, Springer",2025,Yes,99.61
+TAHNET (Ours),Target Journal,2026,NO,99.64
